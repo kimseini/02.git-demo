@@ -8,3 +8,5 @@ git add
 git commit
 git push
 ```
+
+## GitHub 에서 추가한 내용
